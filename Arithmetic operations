@@ -1,0 +1,13 @@
+A=(int(input("Enter a number A:")))
+B=(int(input("Enter a number B:")))
+Add=A+B
+Sub=A-B
+Div=A/B
+Multiply=A*B
+mod=A%B
+
+print("ADD:",Add)
+print("Sub",Sub)
+print(Div)
+print(Multiply)
+print(mod)
